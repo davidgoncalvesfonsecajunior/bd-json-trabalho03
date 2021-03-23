@@ -1,0 +1,96 @@
+{
+  "proprietarios": [
+    {
+      "id": 1,
+      "nome": "Usuario Padrão",
+      "idade": 18,
+      "cpf": 123456789
+    },
+    {
+      "nome": "Carlos Bento",
+      "idade": 25,
+      "cpf": 123456789,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nome": "Douglas martins",
+      "idade": 37,
+      "cpf": 123456789
+    },
+    {
+      "nome": "joão carlos",
+      "idade": 50,
+      "cpf": 12344444,
+      "id": 4
+    },
+    {
+      "nome": "David Gonçalves Fonseca Júnior",
+      "idade": 27,
+      "cpf": 1111144444,
+      "id": 5
+    },
+    {
+      "nome": "joaoo",
+      "idade": 25,
+      "cpf": 55555555554,
+      "id": 6
+    }
+  ],
+  "veiculos": [
+    {
+      "proprietarioId": 2,
+      "modelo": "Corsa",
+      "ano": 2003,
+      "placa": "12dd444",
+      "servico": "limpeza interna",
+      "observacao": "Testes verificados",
+      "id": 2
+    },
+    {
+      "proprietarioId": 3,
+      "modelo": "Fusion",
+      "ano": 2019,
+      "placa": "12ab435",
+      "servico": "limpeza interna",
+      "observacao": "Lataria top",
+      "id": 3
+    },
+    {
+      "proprietarioId": 4,
+      "modelo": "Gol Quadrado",
+      "ano": "1989",
+      "placa": "14g552",
+      "servico": "Limpeza Completa",
+      "observacao": "Carro Top ",
+      "id": 4
+    },
+    {
+      "proprietarioId": 2,
+      "modelo": "Parati",
+      "ano": "1992",
+      "placa": "44d4a44",
+      "servico": "Cristalização",
+      "observacao": "Cliente Chato",
+      "id": 6
+    },
+    {
+      "proprietarioId": 5,
+      "modelo": "Punto",
+      "ano": 2008,
+      "placa": "555adc41",
+      "servico": "Cristalização",
+      "observacao": "meu carro",
+      "id": 7
+    },
+    {
+      "proprietarioId": 5,
+      "modelo": "XRE300",
+      "ano": 2014,
+      "placa": "ftp319",
+      "servico": "Limpeza Completa",
+      "observacao": "Moto",
+      "id": 8
+    }
+  ]
+}
